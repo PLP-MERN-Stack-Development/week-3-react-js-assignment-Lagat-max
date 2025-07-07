@@ -53,6 +53,23 @@ src/
 └── App.jsx          # Main application component
 ```
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Screenshot%20(55).png)
+
+### Task Manager
+![Task Manager](screenshots/Screenshot%20(57).png)
+
+### API Demo
+![API Demo](screenshots/Screenshot%20(58).png)
+
+### Dark Mode
+![Dark Mode](screenshots/Screenshot%20(59).png)
+
+### Mobile View (Optional)
+![Mobile View](screenshots/Screenshot%20(60).png)
+
 ## Submission
 
 Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
