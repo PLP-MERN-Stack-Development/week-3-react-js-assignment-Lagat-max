@@ -55,20 +55,17 @@ src/
 
 ## Screenshots
 
-### Home Page
-![Home Page](screenshots/Screenshot%20(55).png)
+![](screenshots/Screenshot%20(57).png)
 
-### Task Manager
-![Task Manager](screenshots/Screenshot%20(57).png)
+![](screenshots/Screenshot%20(58).png)
 
-### API Demo
-![API Demo](screenshots/Screenshot%20(58).png)
+![](screenshots/Screenshot%20(59).png)
 
-### Dark Mode
-![Dark Mode](screenshots/Screenshot%20(59).png)
+![](screenshots/Screenshot%20(60).png)
 
-### Mobile View (Optional)
-![Mobile View](screenshots/Screenshot%20(60).png)
+## Deployment
+
+The application is deployed at: [https://wk2-express-js-app.vercel.app/](https://wk2-express-js-app.vercel.app/)
 
 ## Submission
 
